@@ -25,9 +25,10 @@ SECRET_KEY = 'django-insecure-$u7(za=we$6wsu+8vg^su$xmq6r24bn=-icd6w3uhhnpfv^@6y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://ejercicio-mvc-djanjo-production.up.railway.app', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['ejercicio-mvc-djanjo-production.up.railway.app', '127.0.0.1', 'localhost']
 
 CSRF_TRUSTED_ORIGINS = ['https://ejercicio-mvc-djanjo-production.up.railway.app/']
+
 
 # Application definition
 
